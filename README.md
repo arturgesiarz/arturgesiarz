@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Artur</h1>
+<h1 align="center"> :wave: Hi, I'm Artur </h1>
 <h3 align="center">👨‍💻 I'm a second-year CS student from Poland</h3>
 
 - 👨‍🎓  Computer Science student at the Faculty of Computer Science, Electronics and Communication at the **AGH University of Science and Technology**
