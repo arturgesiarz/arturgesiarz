@@ -9,8 +9,6 @@
 
 - 💡 I’m interested **algorithms and maths**
 
-- ⚡ In my free time I swim 🏊‍♂️ , play chess ♟, ride bicycle 🚴‍♂️ or other active spending time
-
 - 📫 How to reach me **arturgesiarz@interia.pl**
 
 <p align="left">
