@@ -3,12 +3,6 @@
 
 - 👨‍🎓  Computer Science student at the Faculty of Computer Science at the **AGH University of Science and Technology**
 
-- 🔭 I’m currently working on **OpenGL 3D RPG Game**
-
-- 🌱 I’m currently learning **OpenGL and Java**
-
-- 💡 I’m interested **algorithms and maths**
-
 - 📫 How to reach me **arturgesiarz@interia.pl**
 
 
